@@ -57,7 +57,7 @@ class StartScreen extends StatelessWidget {
                           fontSize: 20,
                         ),
                       ),
-                      child: const Text('Почати тест'),
+                      child: const Text('Розпочати тест'),
                     ),
                   ],
                 ),
